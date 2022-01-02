@@ -2,8 +2,6 @@
 
 ## Junior frontend developer
 
----
-
 ### Contact information:  
 tel. +375259007017  
 tel. +375292773370  
@@ -24,5 +22,28 @@ In 2017,  after the birth of the second daughter, I decided to leave office work
 
 Last year I understand, that photography can be my hobby and started learning front-end developer. 
 
-I am very motivated, diligent, responsible and attentive to details. I believe that my strengths  help me to become a proficient Frontend developer
+I am very motivated, diligent, responsible and attentive to details. I believe that my strengths  help me to become a proficient Frontend developer.
 
+## Education:
+
+* 2007  - Belarussian State University, FIR, linguistic and cultural studies, translator  
+
+* 2011 - Belarusian State Economic University, business administration
+
+## Skills and Proficiency:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* VS Code
+* Adobe Photoshop
+
+## Courses:
+
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages:
+
+* Russian - native  
+* English - C1  
+* Japanese - A2  
+* Polish - A1  
