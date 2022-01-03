@@ -1,6 +1,10 @@
 
-h1,h2 {
+h1,h3 {
     text-align: center;
+}
+
+h2 {
+    text-align: left;
 }
 
 body {
