@@ -12,9 +12,7 @@ email: kladnickaya@gmail.com
 
 ## About myself:
 
-I started my career as a project manager in large mobile retailer after graduating university. I was involved in creating new services and possibilities for clients.
-
-Then I got a job as a project manager, and later - as a director, in a contact center and worked there for 3 years. 
+I started my career as a project manager in large mobile retailer after graduating university. I was involved in creating new services and possibilities for clients. Then I got a job as a project manager, and later - as a director, in a contact center and worked there for 3 years. 
 
 Later I changed sphere and become project manager in consulting company that developув service and maintenance. 
 
