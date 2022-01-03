@@ -19,26 +19,39 @@ body {
     display: flex;
     flex-wrap: nowrap; 
 }
-.box {
-    padding: 30px;
-    margin: 20px 10px;
 
+.box {
+    padding: 20px 30px 30px 30px;
+    margin: 30px 10px;
 }
 .additional-info {
     flex: 1 0 33%;
 }
+
 .main-info {
     flex: 2 0 66%;
 }
-.profile-photo {
 
+.profile {
+    padding: 20px 30px 0px 30px;
+    margin: 30px 10px;
 }
+
+
+.profile-photo {
+    background-image: url(assets/img/profile-photo.jpg);
+    background-size: cover;
+    height: 450px;
+}
+
 .bgc-beige {
     background-color: rgb(248, 243, 238);
 }
+
 .bgc-pinkbeige {
     background-color:rgb(251, 235, 234);
 }
+
 .bgc-yellowbeige {
     background-color:rgb(251, 232, 223);
 }
@@ -46,13 +59,16 @@ body {
 .corner-tl{
     border-top-left-radius: 30px;
 }
+
 .corner-tr{
     border-top-right-radius: 30px;
 }
+
 .corner-tl-br{
     border-top-left-radius: 30px;
     border-bottom-right-radius: 30px;
 }
+
 .corner-tr-bl{
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
