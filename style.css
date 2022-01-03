@@ -7,6 +7,11 @@ h3 {
     text-align: left;
 }
 
+.header{
+    width: auto;
+    height: 100px;
+    margin: 20px auto;
+}
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
@@ -72,4 +77,30 @@ body {
 .corner-tr-bl{
     border-top-right-radius: 30px;
     border-bottom-left-radius: 30px;
+}
+
+.footer {
+    width: auto;
+    height: 70px;
+    margin: 0px auto;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.footer > div {
+    flex: 1 0 0;
+    text-align: center;
+}
+
+.footer > div > a {
+    display: block;
+}
+
+.footer_logo {
+    height: 50px;
+    padding: 12px;
+}
+.github-link {
+    margin: 20px;
 }
