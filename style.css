@@ -1,9 +1,31 @@
-h2 {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+h1,h2 {
     text-align: center;
-    color: white;
 }
 
 body {
-    background-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.wrapper {
+    padding: 30px 50px;
+}
+
+.content {
+    display: flex;
+    flex-wrap: nowrap; 
+}
+
+.additional-info {
+    flex: 1 0 33%;
+}
+
+.main-info {
+    flex: 2 0 66%;
+}
+
+
+.profile-photo {
+
+
 }
