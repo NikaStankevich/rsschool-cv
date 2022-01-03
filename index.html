@@ -9,15 +9,21 @@
  <body>
      <div class="wrapper">
         <header class="header bgc-beige corner-tr-bl">
-            <nav>
-
-            </nav>
+                <nav class="menu">
+                    <ul>
+                      <li><a href="#about">About me</a></li>
+                      <li><a href="#cont">Contacts</a></li>
+                      <li><a href="#ed">Education</a></li>
+                      <li><a href="#sk">Skills</a></li>
+                      <li><a href="#lang">Languages</a></li>
+                    </ul>
+                </nav>
         </header>
         <div class="content">
             <aside class="additional-info"> 
                 <div class="profile-photo bgc-pinkbeige corner-tl-br">  
                 </div> 
-                <div class="education box bgc-beige corner-tl">
+                <div class="education box bgc-beige corner-tl" id="ed">
                     <h3>Education</h3> 
                     <ul>
                         <li> 2007  - Belarussian State University, FIR, linguistic and cultural studies, translator 
@@ -28,7 +34,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="contacts box bgc-pinkbeige corner-tr">
+                <div class="contacts box bgc-pinkbeige corner-tr" id="cont">
                     <h3> Contact information</h3> 
                     <ul>
                         <li> tel. +375259007017  
@@ -46,7 +52,7 @@
                 <h1>Veronika Stankevich</h1>
                 <h2>Junior Frontend Developer</h2>
                 <div class="profile">
-                    <h3>About myself</h3> 
+                    <h3 id="about">About myself</h3> 
                     <p> I started my career as a project manager in large mobile retailer after graduating university. I was involved in creating new services and possibilities for clients. Then I got a job as a project manager, and later - as a director, in a contact center and worked there for 3 years.
                      </p>
                     <p>Later I changed sphere and become project manager in consulting company that developув service and maintenance. 
@@ -60,7 +66,7 @@
 
                 </div>
                 <div class="languages box bgc-yellowbeige corner-tl-br">
-                    <h3>Languages</h3> 
+                    <h3 id="lang">Languages</h3> 
                     <ul>
                         <li>Russian - native</li>
                         <li>English - C1 </li>
@@ -70,7 +76,7 @@
                     </ul>
                 </div>
                 <div class="skills box bgc-beige corner-tr-bl">
-                    <h3>Skills</h3> 
+                    <h3 id="sk">Skills</h3> 
                     <ul>
                         <li> HTML5</li>
                         <li> CSS3</li>
